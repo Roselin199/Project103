@@ -75,7 +75,7 @@
 <td>Your webpage should have more than 300 inline CSS styles.</td>
 </tr>
 <tr>
-<th><font color="blue" size="5">WWW redirection Test</font></th>
+<th><font color="red" size="5">WWW redirection Test</font></th>
 <td>Not Found</td>
 <td>404</td>
 <td>redirect is not place to redirect traffic from your non-preferred domain. </td>
