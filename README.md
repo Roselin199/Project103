@@ -14,6 +14,7 @@
 <td> The meta description length of your page is 0 characters.Most search engines will truncate meta descriptions to 160 characters</td>
 <td>DU's International Offices Welcome Foreign Students and Partner Universities · Gazette Notification of July 2016 regarding MOU with Foreign Institutions.
 </td>
+</tr>
 <tr>
 <th><font color="blue" size="5">Meta Keywords</font></th>
 <td>Found</td>
@@ -53,6 +54,7 @@
 <td>Not good</td>
 <td>200</td>
 <td>Your webpage has 11 'img' tags and 10 of them missing the required 'alt' attribute</td>
+</tr>
 <tr>
 <th><font color="blue" size="5">Domain Authority</font></th>
 <td>Not Found</td>
