@@ -85,5 +85,6 @@
 <th><font color="blue" size="5">SEO Score</font></th>
 <td>69</td>
 </tr>
+<th colspan="6">TO GO TO DU LINK CLICK: www.du.ac.in </th>
 </table>
 </html>
