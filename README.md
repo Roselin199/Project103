@@ -2,7 +2,7 @@
 <head><b><h1><marquee>SEO REPORT</marquee></h1></b></head>
 <table>
 <tr>
-<th colspan="6"><b><u><i>DU WEBSITE</i></u></b></th>
+<th colspan="6"><b><u><i><font color="green" size="6">DU WEBSITE</font></i></u></b></th>
 </tr>
 <tr>
 <th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
