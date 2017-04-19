@@ -156,34 +156,34 @@
 <th><b>TITLE</b></th><th><b>DESCRIPTION</b></th>
 </tr>
 <tr>
-<th><font color="blue" size="5">SEO Score</font></th>
+<th><font color="blue" size="3">SEO Score</font></th>
 <td>75</td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">SEO Grade</font></b></th>
+<th><font color="blue" size="3">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"></td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">Email</font></b></th>
+<th><font color="blue" size="3">Email</font></th>
 <td>nitin@ducc.du.ac.in</td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">Website Title</font></b></th>
+<th><font color="blue" size="3">Website Title</font></th>
 <td>Home - University of Delhi</td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">Created On</font></b></th>
+<th><font color="blue" size="3">Created On</font></th>
 <td>28-02-2004</td>
 </tr><tr>
-<th><b><font color="blue" size="5">Updated On</font></b></th>
+<th><font color="blue" size="3">Updated On</font></th>
 <td>28-02-2017</td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">Expires On</font></b></th>
+<th><b><font color="blue" size="3">Expires On</font></b></th>
 <td>28-02-2018</td>
 </tr>
 <tr>
-<th><b><font color="blue" size="5">Page Rank</font></b></th>
+<th><font color="blue" size="5">Page Rank</font></th>
 <td>7</td>
 </tr>
 <th colspan="6">TO GO TO DU LINK CLICK: www.du.ac.in </th>
