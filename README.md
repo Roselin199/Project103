@@ -155,34 +155,34 @@
 <tr>
 <th><b>TITLE</b></th><th><b>DESCRIPTION</b></th>
 <th><font color="blue" size="5">SEO Score</font></th>
-<td>69</td>
+<td>75</td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>SEO Grade</b></th>
+<td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"></td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>Email</b></th>
+<td>nitin@ducc.du.ac.in</td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>Website Title</b></th>
+<td>Home - University of Delhi</td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>Created On</b></th>
+<td>28-02-2004</td>
 </tr><tr>
-<th><b></b></th>
-<td></td>
+<th><b>Updated On</b></th>
+<td>28-02-2017</td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>Expires On</b></th>
+<td>28-02-2018</td>
 </tr>
 <tr>
-<th><b></b></th>
-<td></td>
+<th><b>Page Rank</b></th>
+<td>7</td>
 </tr>
 <th colspan="6">TO GO TO DU LINK CLICK: www.du.ac.in </th>
 </table>
