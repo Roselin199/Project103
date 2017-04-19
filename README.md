@@ -154,6 +154,8 @@
 <table>
 <tr>
 <th><b>TITLE</b></th><th><b>DESCRIPTION</b></th>
+</tr>
+<tr>
 <th><font color="blue" size="5">SEO Score</font></th>
 <td>75</td>
 </tr>
